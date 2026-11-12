@@ -266,7 +266,7 @@ Job descriptions, highlights, and `apply_options` are returned directly in `jobs
 For Markdown output, use `output=md` and read the response as text as shown above.
 
 ## Use cases
-- Build job boards that collect listings for specific roles and locations.
+- Find which job sites list a role most often, from the providers in `apply_options`.
 - Track hiring activity across companies or industries.
 - Compare advertised salaries where listings include compensation.
 - Analyze in-demand qualifications and skills from job descriptions.
